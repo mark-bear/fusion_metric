@@ -1,3 +1,4 @@
+copied from https://gitcode.com/open-source-toolkit/83ef5/overview
 # 图像融合评估指标 - Python实现
 
 本仓库提供了一个使用Python实现的图像融合评估指标集合，涵盖了多种常用的评估方法。这些指标可以帮助研究人员和开发者评估图像融合算法的效果，并进行对比分析。支持单幅图像评估、单个算法的所有融合结果评估，以及所有对比算法的直接计算，并支持结果写入Excel文件。
