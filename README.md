@@ -22,17 +22,12 @@ copied from https://gitcode.com/open-source-toolkit/83ef5/overview
 
 ## 使用方法
 
-1. **安装依赖**：
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **运行评估脚本**：
+1. **运行评估脚本**：
    ```bash
    python evaluate.py --image_path path/to/image --output_excel output.xlsx
    ```
 
-3. **结果输出**：
+2. **结果输出**：
    评估结果将自动写入指定的Excel文件中，方便后续分析和对比。
 
 ## 支持的评估模式
